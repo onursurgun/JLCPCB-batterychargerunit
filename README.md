@@ -54,6 +54,6 @@ After entering your information, you can order with the desired shipping option.
 
 In addition to PCB production, you can also have SMT-Stencil produced for your board, which will assist you during 3D printing and production. With the help of JLCPCB, it's that simple to get anything produced.
 
-JLCPCB
+https://jlcpcb.com/HAR
 
 
